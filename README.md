@@ -4,7 +4,7 @@
 - ⚡ Self-motivated junior web developer.
 - 📍  Based in Vancouver, Canada.
 
-## Stack 🔨
+## Tech Stack 🔨
 - Front-end : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></span>
