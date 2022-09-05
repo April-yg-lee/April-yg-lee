@@ -21,7 +21,7 @@
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
 
 ## Projects 📑
-- Portfolio: preparing
+- Portfolio: https://aprillee.netlify.app/
 
 ## Contact Me 👇
 - Linkedin: https://www.linkedin.com/in/april-lee-b82380212/
