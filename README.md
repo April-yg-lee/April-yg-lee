@@ -2,7 +2,7 @@
 
 ## Who is April?
 - ⚡ Self-motivated junior web developer.
-- 📍  Based in Vancouver, Canada.
+- 📍  Based in Korea.
 
 ## Tech Stack 🔨
 - Front-end : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
