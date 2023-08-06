@@ -1,7 +1,7 @@
 # Welcome to April's github!😎
 
 ## Who is April?
-- ⚡ Self-motivated junior web developer.
+- ⚡ Self-motivated and Resilient person
 - 📍  Based in Korea.
 
 ## Tech Stack 🔨
